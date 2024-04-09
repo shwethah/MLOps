@@ -36,7 +36,7 @@ python app.py
 
 ## Workflow
 
-1. constant
+1. constants
 2. config_entity
 3. artifact_entity
 4. component
